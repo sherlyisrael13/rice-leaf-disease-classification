@@ -1,0 +1,5 @@
+Metric,Value
+Test Accuracy,0.9629213483146067
+Macro F1-score,0.9637410162315787
+Total Test Images,890.0
+Misclassified Images,33.0
